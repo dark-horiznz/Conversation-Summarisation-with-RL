@@ -77,6 +77,19 @@ Generate summaries with the trained PPO model
 | t5-base (supervised)  | 54.8     | 29.0     | 52.4     |
 | t5-base (PPO)         | **56.2** | **30.5** | **53.9** |
 
+## SFT Model Comparsion
+![image](https://github.com/user-attachments/assets/e60eff85-5d77-4a4a-ab48-497a255282f9)
+
+## PPO Model Comparision (Toxicity Scores by BERT)
+
+<b>1. T5 Base</b>
+
+![image](https://github.com/user-attachments/assets/7c956c09-8580-4de0-baf1-537c1ae1a7ea)
+
+<b>2. T5 Small</b>
+
+![image](https://github.com/user-attachments/assets/e0f4890f-8a16-4d8e-a47d-9643bd3805c4)
+
 ## Contributing
 
 Contributions welcome! Please open an issue or pull request with enhancements or bug fixes.
